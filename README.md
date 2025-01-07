@@ -19,6 +19,7 @@ Official Python SDK for [Deepgram](https://www.deepgram.com/). Power your apps w
 - [Development and Contributing](#development-and-contributing)
 - [Getting Help](#getting-help)
 
+
 ## Documentation
 
 You can learn more about the Deepgram API at [developers.deepgram.com](https://developers.deepgram.com/docs).
